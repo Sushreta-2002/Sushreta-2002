@@ -17,10 +17,6 @@ Hello !! This is Sushreta here...<br>Doing projects in Frontend Web Development.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Sushreta-2002&icon=5&color=8)](https://visitcount.itsvg.in)
 
