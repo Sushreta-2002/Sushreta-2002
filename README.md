@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello !! This is Sushreta here...<br>Doing projects in Frontend Web Development...<br>Aspiring Full Stack Web Development...<br>Focusing On Competitive  Programming Using JAVA........<br>Currently have knowledge in HTML, CSS, JS, C, C++, Python, SQL
+Hello !! This is Sushreta here...<br>Learning JAVA with DSA...Intended on projects using JAVA...<br>Doing projects in Frontend Web Development...<br>Aspiring Full Stack Web Development...<br>Focusing On Competitive  Programming Using JAVA........<br>Currently have knowledge in HTML, CSS, JS, C, C++, Python, SQL
 
 
 ## 🌐 Socials:
