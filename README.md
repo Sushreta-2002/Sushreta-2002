@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hello !! This is Sushreta here...<br>Learning JAVA with DSA...Intended on projects using JAVA...<br>Doing projects in Frontend Web Development...<br>Aspiring Full Stack Web Development...<br>Focusing On Competitive  Programming Using JAVA........<br>Currently have knowledge in C, C++, JAVA, Python, HTML, CSS, JS, react.js, SQL
+Hello !! This is Sushreta here...😎
+Solving problems in leetcode, coding ninja, codechef, hackerrank using JAVA.
+Focusing on projects in MERN - Stack Web development
+Currently have knowledge in JAVA, C, Python(Basic) , C++(Basic), HTML, CSS, JS, react.js, node.js, express.js, mongoDB, MYSQL, bootstrap.
 
 
 ## 🌐 Socials:
