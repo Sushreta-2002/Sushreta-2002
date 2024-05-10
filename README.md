@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello !! This is Sushreta here...😎
-Solving problems in leetcode, coding ninja, codechef, hackerrank using JAVA.
-Focusing on projects in MERN - Stack Web development
+Solving problems in Data Structure using JAVA.
+Focusing on projects in MERN-Stack Web development. 
 Currently have knowledge in JAVA, C, Python(Basic) , C++(Basic), HTML, CSS, JS, react.js, node.js, express.js, mongoDB, MYSQL, bootstrap.
 
 
